@@ -1,1 +1,1 @@
-# YOLO_object_detection_project
+# YOLOv8 Object Detection Project
